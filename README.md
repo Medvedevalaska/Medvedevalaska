@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 
 <!--
 **Medvedevalaska/Medvedevalaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
